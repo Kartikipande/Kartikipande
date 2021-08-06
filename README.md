@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kartikipande
 - 👀 I’m interested in Aritifical Intelligence and Machine Learning.
-- 🟢 Special interest in Data Visvalization.
+- 🟢 Special interest in Data Visualization.
 - 🌱 I’m currently learning projects related to the above mentioned technologies.
 - 📫 https://www.linkedin.com/in/kartiki-pande-108806190/  here is my LinkedIn account..Hit me up!
 
